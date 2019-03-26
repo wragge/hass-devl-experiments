@@ -8,4 +8,4 @@ Run the notebooks in this repository live on MyBinder — just click the button 
 
 ## Contents
 
-* GLAM CSV Explorer — click to launch live in app mode
+* [GLAM CSV Explorer](https://mybinder.org/v2/gh/wragge/hass-devl-experiments/master?urlpath=%2Fapps%2Fcsv-explorer.ipynb) — click to launch live in app mode
