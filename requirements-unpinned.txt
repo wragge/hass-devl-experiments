@@ -1,0 +1,12 @@
+IPython
+altair
+ipywidgets
+jupyterlab
+pandas
+slugify
+voila
+voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
+wordcloud
+appmode
+jupyter-server-proxy
+altair-data-server
