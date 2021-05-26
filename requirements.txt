@@ -1,7 +1,7 @@
 aiofiles==0.6.0
 aiohttp==3.7.4.post0
 altair==4.1.0
-altair-data-server @ git+https://github.com/altair-viz/altair_data_server.git@b0fdb38205877df7833481baa04b26ac6a9a245e
+altair-data-server @ git+https://github.com/wragge/altair_data_server.git@4d6ffcb19f864218c8d825ff2c95a1c8180585d0
 anyio==3.1.0
 appmode==0.8.0
 appnope==0.1.2
